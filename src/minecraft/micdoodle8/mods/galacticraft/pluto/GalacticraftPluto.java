@@ -77,7 +77,7 @@ public class GalacticraftPluto implements IGalacticraftSubMod
 	@Override
 	public boolean reachableDestination() 
 	{
-		return true;
+		return false;
 	}
 
 	@Override
