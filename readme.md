@@ -3,6 +3,15 @@ Galacticraft
  
 An advanced space exploration mod for Minecraft 1.4.7, All credit goes to micdoodle8 for making this mod. The full compiled version can be found at Http://axiz.weebly.com 
  
+Credits
+============ 
+Mattparks (AKA galacticraftgamer) - Coding, Pluto graphics, Music.
+
+Minecraft_Modder - Coding.
+
+Flashy-3 - Graphics.
+ 
+ 
 Compile 
 ============ 
 First download and install Eclipse and java JDK. Then unzip The custom MCP and the github source, go into your MCP directory and go into MCP/SCR/minecraft and then in a new window open your Galacticraft source code and go into SCR/Minecraft the folder micdoodle8 should be copped into the window opened earlier. Now close those windows and open eclipse and select your workspace /MCP/Eclipse eclipse might show some errors but that is ok. Click the green arrow witch is run if all when well the minecraft screen says you have 10 mods if it says only 3 micdoodle8 might be in the wrong folder. Quit minecraft and eclipse and open MCP/Eclipse copy the folder bin to your desktop. 

@@ -22,6 +22,8 @@ CHANGELOG.txt
 /src/common/*
 !/src/minecraft/micdoodle8/
 !/src/common/micdoodle8/
+!/src/minecraft/starcraft/
+!/src/common/starcraft/
 !/src/common/mcmod.info
 !/src/common/SP.png
 
