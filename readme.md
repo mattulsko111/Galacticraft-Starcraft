@@ -5,11 +5,13 @@ An advanced space exploration mod for Minecraft 1.4.7, All credit goes to micdoo
  
 Credits
 ============ 
-Mattparks (AKA galacticraftgamer) - Coding, Pluto graphics, Music.
+Mattparks (AKA galacticraftgamer) - Coding, Pluto graphics, Music
 
-Minecraft_Modder - Coding.
+Minecraft_Modder - Coding
 
-Flashy-3 - Graphics.
+Flashy-3 - Graphics
+
+Micdoodle8 - original code
  
  
 Compile 
